@@ -1,0 +1,362 @@
+{
+  "nodes": [
+    {
+      "id": "The Persuader",
+      "type": "artist"
+    },
+    {
+      "id": "Kaos",
+      "type": "release"
+    },
+    {
+      "id": "Snorkelmannen Ø Hans Vänner",
+      "type": "release"
+    },
+    {
+      "id": "Stockholm By Night",
+      "type": "release"
+    },
+    {
+      "id": "City Of Islands",
+      "type": "release"
+    },
+    {
+      "id": "Mr. James Barth & A.D.",
+      "type": "artist"
+    },
+    {
+      "id": "Knockin' Boots Vol 1 And 2",
+      "type": "release"
+    },
+    {
+      "id": "Knockin' Boots (Vol 1 Of 2)",
+      "type": "release"
+    },
+    {
+      "id": "Knockin' Boots (Vol 2 Of 2)",
+      "type": "release"
+    },
+    {
+      "id": "The Lords Of Svek Vol. 4",
+      "type": "release"
+    },
+    {
+      "id": "The Button Down Mind Of Daniel Bell",
+      "type": "release"
+    },
+    {
+      "id": "Josh Wink",
+      "type": "artist"
+    },
+    {
+      "id": "Untitled",
+      "type": "release"
+    },
+    {
+      "id": "Nervous Build-Up",
+      "type": "release"
+    },
+    {
+      "id": "Liquid Summer",
+      "type": "release"
+    },
+    {
+      "id": "How's The Music",
+      "type": "release"
+    },
+    {
+      "id": "Thoughts Of A Tranced Love",
+      "type": "release"
+    },
+    {
+      "id": "Johannes Heil",
+      "type": "artist"
+    },
+    {
+      "id": "Die Offenbarung",
+      "type": "release"
+    },
+    {
+      "id": "Der Tod",
+      "type": "release"
+    },
+    {
+      "id": "Bittersüss",
+      "type": "release"
+    },
+    {
+      "id": "No Gain No Pain RMXes",
+      "type": "release"
+    },
+    {
+      "id": "Amen",
+      "type": "release"
+    },
+    {
+      "id": "Heiko Laux",
+      "type": "artist"
+    },
+    {
+      "id": "Re-Laux",
+      "type": "release"
+    },
+    {
+      "id": "Gnom's Boogie EP",
+      "type": "release"
+    },
+    {
+      "id": "Sahara Effects",
+      "type": "release"
+    },
+    {
+      "id": "Tieup To Machines",
+      "type": "release"
+    },
+    {
+      "id": "Run EP",
+      "type": "release"
+    },
+    {
+      "id": "K.A.B.",
+      "type": "artist"
+    },
+    {
+      "id": "Excursion",
+      "type": "release"
+    },
+    {
+      "id": "Tours 2 Chauffe",
+      "type": "release"
+    },
+    {
+      "id": "Sylk 130",
+      "type": "artist"
+    },
+    {
+      "id": "Gettin' Into It",
+      "type": "release"
+    },
+    {
+      "id": "When The Funk Hits The Fan",
+      "type": "release"
+    },
+    {
+      "id": "Last Night A DJ Saved My Life",
+      "type": "release"
+    },
+    {
+      "id": "The Reason / When The Funk Hits The Fan",
+      "type": "release"
+    },
+    {
+      "id": "The Reason",
+      "type": "release"
+    },
+    {
+      "id": "Mood II Swing",
+      "type": "artist"
+    },
+    {
+      "id": "Penetration / 8 Ways To Knock Down A Wall / I Need Your Luv (Right Now)",
+      "type": "release"
+    },
+    {
+      "id": "You Can Take Me / During Peak Hours",
+      "type": "release"
+    },
+    {
+      "id": "The Kiss",
+      "type": "release"
+    },
+    {
+      "id": "Closer",
+      "type": "release"
+    },
+    {
+      "id": "I Need A B--ch",
+      "type": "release"
+    },
+    {
+      "id": "Care Company",
+      "type": "artist"
+    },
+    {
+      "id": "Dolphins",
+      "type": "release"
+    },
+    {
+      "id": "Gain Again",
+      "type": "release"
+    },
+    {
+      "id": "In The Flow",
+      "type": "release"
+    }
+  ],
+  "links": [
+    {
+      "source": "The Persuader",
+      "target": "Kaos"
+    },
+    {
+      "source": "The Persuader",
+      "target": "Snorkelmannen Ø Hans Vänner"
+    },
+    {
+      "source": "The Persuader",
+      "target": "Stockholm By Night"
+    },
+    {
+      "source": "The Persuader",
+      "target": "City Of Islands"
+    },
+    {
+      "source": "Mr. James Barth & A.D.",
+      "target": "Knockin' Boots Vol 1 And 2"
+    },
+    {
+      "source": "Mr. James Barth & A.D.",
+      "target": "Knockin' Boots (Vol 1 Of 2)"
+    },
+    {
+      "source": "Mr. James Barth & A.D.",
+      "target": "Knockin' Boots (Vol 2 Of 2)"
+    },
+    {
+      "source": "Mr. James Barth & A.D.",
+      "target": "The Lords Of Svek Vol. 4"
+    },
+    {
+      "source": "Mr. James Barth & A.D.",
+      "target": "The Button Down Mind Of Daniel Bell"
+    },
+    {
+      "source": "Josh Wink",
+      "target": "Untitled"
+    },
+    {
+      "source": "Josh Wink",
+      "target": "Nervous Build-Up"
+    },
+    {
+      "source": "Josh Wink",
+      "target": "Liquid Summer"
+    },
+    {
+      "source": "Josh Wink",
+      "target": "How's The Music"
+    },
+    {
+      "source": "Josh Wink",
+      "target": "Thoughts Of A Tranced Love"
+    },
+    {
+      "source": "Johannes Heil",
+      "target": "Die Offenbarung"
+    },
+    {
+      "source": "Johannes Heil",
+      "target": "Der Tod"
+    },
+    {
+      "source": "Johannes Heil",
+      "target": "Bittersüss"
+    },
+    {
+      "source": "Johannes Heil",
+      "target": "No Gain No Pain RMXes"
+    },
+    {
+      "source": "Johannes Heil",
+      "target": "Amen"
+    },
+    {
+      "source": "Heiko Laux",
+      "target": "Re-Laux"
+    },
+    {
+      "source": "Heiko Laux",
+      "target": "Gnom's Boogie EP"
+    },
+    {
+      "source": "Heiko Laux",
+      "target": "Sahara Effects"
+    },
+    {
+      "source": "Heiko Laux",
+      "target": "Tieup To Machines"
+    },
+    {
+      "source": "Heiko Laux",
+      "target": "Run EP"
+    },
+    {
+      "source": "K.A.B.",
+      "target": "Excursion"
+    },
+    {
+      "source": "K.A.B.",
+      "target": "Tours 2 Chauffe"
+    },
+    {
+      "source": "Sylk 130",
+      "target": "Gettin' Into It"
+    },
+    {
+      "source": "Sylk 130",
+      "target": "When The Funk Hits The Fan"
+    },
+    {
+      "source": "Sylk 130",
+      "target": "Last Night A DJ Saved My Life"
+    },
+    {
+      "source": "Sylk 130",
+      "target": "The Reason / When The Funk Hits The Fan"
+    },
+    {
+      "source": "Sylk 130",
+      "target": "The Reason"
+    },
+    {
+      "source": "Mood II Swing",
+      "target": "Penetration / 8 Ways To Knock Down A Wall / I Need Your Luv (Right Now)"
+    },
+    {
+      "source": "Mood II Swing",
+      "target": "You Can Take Me / During Peak Hours"
+    },
+    {
+      "source": "Mood II Swing",
+      "target": "The Kiss"
+    },
+    {
+      "source": "Mood II Swing",
+      "target": "Closer"
+    },
+    {
+      "source": "Mood II Swing",
+      "target": "I Need A B--ch"
+    },
+    {
+      "source": "Care Company",
+      "target": "Dolphins"
+    },
+    {
+      "source": "Care Company",
+      "target": "Untitled"
+    },
+    {
+      "source": "Care Company",
+      "target": "Gain Again"
+    },
+    {
+      "source": "Care Company",
+      "target": "Untitled"
+    },
+    {
+      "source": "Care Company",
+      "target": "In The Flow"
+    }
+  ]
+}

@@ -1,0 +1,1016 @@
+{
+    "6M2wZ9GZgrQXHCFfjv46we": {
+        "name": "Dua Lipa",
+        "popularity": 86,
+        "genres": [
+            "pop"
+        ],
+        "collaborators": {
+            "3PhoLpVuITZKcymswpck5b": {
+                "name": "Elton John",
+                "songs": [
+                    {
+                        "title": "Cold Heart (Live from the Royal Albert Hall)",
+                        "release_date": "2024-12-06",
+                        "album": "Dua Lipa Live from the Royal Albert Hall"
+                    },
+                    {
+                        "title": "Cold Heart - Acoustic",
+                        "release_date": "2021-10-12",
+                        "album": "Cold Heart (Acoustic)"
+                    },
+                    {
+                        "title": "Cold Heart - PNAU Remix",
+                        "release_date": "2021-10-12",
+                        "album": "Cold Heart (Acoustic)"
+                    },
+                    {
+                        "title": "Cold Heart - The Blessed Madonna Remix",
+                        "release_date": "2021-10-12",
+                        "album": "Cold Heart (Acoustic)"
+                    },
+                    {
+                        "title": "Cold Heart - PS1 Remix",
+                        "release_date": "2021-10-12",
+                        "album": "Cold Heart (Acoustic)"
+                    },
+                    {
+                        "title": "Cold Heart - Claptone Remix",
+                        "release_date": "2021-10-12",
+                        "album": "Cold Heart (Acoustic)"
+                    },
+                    {
+                        "title": "Cold Heart - Claptone Remix",
+                        "release_date": "2021-10-08",
+                        "album": "Cold Heart (Claptone Remix)"
+                    },
+                    {
+                        "title": "Cold Heart - PNAU Remix",
+                        "release_date": "2021-10-08",
+                        "album": "Cold Heart (Claptone Remix)"
+                    },
+                    {
+                        "title": "Cold Heart - PS1 Remix",
+                        "release_date": "2021-09-17",
+                        "album": "Cold Heart (PS1 Remix)"
+                    },
+                    {
+                        "title": "Cold Heart - PNAU Remix",
+                        "release_date": "2021-09-17",
+                        "album": "Cold Heart (PS1 Remix)"
+                    },
+                    {
+                        "title": "Cold Heart - The Blessed Madonna Remix",
+                        "release_date": "2021-09-10",
+                        "album": "Cold Heart (The Blessed Madonna Remix)"
+                    },
+                    {
+                        "title": "Cold Heart - The Blessed Madonna Extended Mix",
+                        "release_date": "2021-09-10",
+                        "album": "Cold Heart (The Blessed Madonna Remix)"
+                    },
+                    {
+                        "title": "Cold Heart - PNAU Remix",
+                        "release_date": "2021-09-10",
+                        "album": "Cold Heart (The Blessed Madonna Remix)"
+                    },
+                    {
+                        "title": "Cold Heart - PNAU Remix",
+                        "release_date": "2021-08-13",
+                        "album": "Cold Heart (PNAU Remix)"
+                    }
+                ]
+            },
+            "3QVolfxko2UyCOtexhVTli": {
+                "name": "Ang\u00e8le",
+                "songs": [
+                    {
+                        "title": "Fever",
+                        "release_date": "2021-02-11",
+                        "album": "Future Nostalgia (The Moonlight Edition)"
+                    },
+                    {
+                        "title": "Fever",
+                        "release_date": "2020-03-27",
+                        "album": "Future Nostalgia"
+                    },
+                    {
+                        "title": "Fever - Vantage Remix",
+                        "release_date": "2021-01-08",
+                        "album": "Fever (Vantage Remix)"
+                    },
+                    {
+                        "title": "Fever - Myd Remix",
+                        "release_date": "2021-01-08",
+                        "album": "Fever (Myd Remix)"
+                    },
+                    {
+                        "title": "Fever - Feder Remix",
+                        "release_date": "2021-01-08",
+                        "album": "Fever (Feder Remix)"
+                    },
+                    {
+                        "title": "Fever - Oklou Remix",
+                        "release_date": "2020-12-18",
+                        "album": "Fever (Oklou Remix)"
+                    },
+                    {
+                        "title": "Fever",
+                        "release_date": "2020-10-29",
+                        "album": "Fever"
+                    }
+                ]
+            },
+            "5YGY8feqx7naU7z4HrwZM6": {
+                "name": "Miley Cyrus",
+                "songs": [
+                    {
+                        "title": "Prisoner (feat. Dua Lipa)",
+                        "release_date": "2021-02-11",
+                        "album": "Future Nostalgia (The Moonlight Edition)"
+                    },
+                    {
+                        "title": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
+                        "release_date": "2021-02-05",
+                        "album": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]"
+                    }
+                ]
+            },
+            "6U3ybJ9UHNKEdsH7ktGBZ7": {
+                "name": "JID",
+                "songs": [
+                    {
+                        "title": "Not My Problem (feat. JID)",
+                        "release_date": "2021-02-11",
+                        "album": "Future Nostalgia (The Moonlight Edition)"
+                    }
+                ]
+            },
+            "4r63FhuTkUYltbVAg5TQnk": {
+                "name": "DaBaby",
+                "songs": [
+                    {
+                        "title": "Levitating (feat. DaBaby)",
+                        "release_date": "2021-02-11",
+                        "album": "Future Nostalgia (The Moonlight Edition)"
+                    },
+                    {
+                        "title": "Levitating (feat. DaBaby)",
+                        "release_date": "2020-03-27",
+                        "album": "Future Nostalgia"
+                    },
+                    {
+                        "title": "Levitating (feat. DaBaby)",
+                        "release_date": "2020-12-11",
+                        "album": "Levitating EP"
+                    },
+                    {
+                        "title": "Levitating (feat. DaBaby) - KUU Remix",
+                        "release_date": "2020-12-11",
+                        "album": "Levitating EP"
+                    },
+                    {
+                        "title": "Levitating (feat. DaBaby) - Don Diablo Remix",
+                        "release_date": "2020-12-11",
+                        "album": "Levitating EP"
+                    },
+                    {
+                        "title": "Levitating (feat. DaBaby) - Don Diablo Remix",
+                        "release_date": "2020-12-11",
+                        "album": "Levitating (feat. DaBaby) [Don Diablo Remix]"
+                    },
+                    {
+                        "title": "Levitating (feat. DaBaby) - KUU Remix",
+                        "release_date": "2020-11-20",
+                        "album": "Levitating (feat. DaBaby) [KUU Remix]"
+                    },
+                    {
+                        "title": "Levitating (feat. DaBaby)",
+                        "release_date": "2020-10-01",
+                        "album": "Levitating (feat. DaBaby)"
+                    }
+                ]
+            },
+            "5jPdfoPh4GlyeYexTLfcfT": {
+                "name": "J. Balvin",
+                "songs": [
+                    {
+                        "title": "Un D\u00eda (One Day)",
+                        "release_date": "2021-02-11",
+                        "album": "Future Nostalgia (The Moonlight Edition)"
+                    }
+                ]
+            },
+            "4q3ewBCX7sLwd24euuV69X": {
+                "name": "Bad Bunny",
+                "songs": [
+                    {
+                        "title": "Un D\u00eda (One Day)",
+                        "release_date": "2021-02-11",
+                        "album": "Future Nostalgia (The Moonlight Edition)"
+                    }
+                ]
+            },
+            "0sdko0iUd9nBW0qnw2uGOR": {
+                "name": "Tainy",
+                "songs": [
+                    {
+                        "title": "Un D\u00eda (One Day)",
+                        "release_date": "2021-02-11",
+                        "album": "Future Nostalgia (The Moonlight Edition)"
+                    }
+                ]
+            },
+            "4TvhRzxIL1le2PWCeUqxQw": {
+                "name": "The Blessed Madonna",
+                "songs": [
+                    {
+                        "title": "Future Nostalgia (Joe Goddard Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Cool (Jayda G Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Good In Bed (Zach Witness & Gen Hoshino Remixes) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Pretty Please (Midland Refix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Pretty Please (Masters at Work Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Boys Will Be Boys (Zach Witness Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Love Again (Horse Meat Disco Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix] [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Hallucinate (Mr Fingers deep stripped mix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Hallucinate (Paul Woolford Remix) [Extended] [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Love Is Religion (The Blessed Madonna Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Don't Start Now (Yaeji Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Physical (feat. Gwen Stefani) [Mark Ronson Remix] [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Kiss and Make Up (Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "That Kind Of Woman (Jacques Lu Cont Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Break My Heart (Moodymann Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Cold Heart - The Blessed Madonna Remix",
+                        "release_date": "2021-10-12",
+                        "album": "Cold Heart (Acoustic)"
+                    },
+                    {
+                        "title": "Cold Heart - The Blessed Madonna Remix",
+                        "release_date": "2021-09-10",
+                        "album": "Cold Heart (The Blessed Madonna Remix)"
+                    },
+                    {
+                        "title": "Cold Heart - The Blessed Madonna Extended Mix",
+                        "release_date": "2021-09-10",
+                        "album": "Cold Heart (The Blessed Madonna Remix)"
+                    },
+                    {
+                        "title": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+                        "release_date": "2020-12-11",
+                        "album": "Levitating EP"
+                    },
+                    {
+                        "title": "Love Is Religion (The Blessed Madonna Remix)",
+                        "release_date": "2020-09-12",
+                        "album": "Love Is Religion (The Blessed Madonna Remix)"
+                    }
+                ]
+            },
+            "380fnmlGnkyueBMqGWx2k5": {
+                "name": "Joe Goddard",
+                "songs": [
+                    {
+                        "title": "Future Nostalgia (Joe Goddard Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "3NKVm2Jedcf6ibJr6pMUVx": {
+                "name": "Jayda G",
+                "songs": [
+                    {
+                        "title": "Cool (Jayda G Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "1S2S00lgLYLGHWA44qGEUs": {
+                "name": "Gen Hoshino",
+                "songs": [
+                    {
+                        "title": "Good In Bed (Zach Witness & Gen Hoshino Remixes) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "0u6h31HopxUAum6iOTVL17": {
+                "name": "Zach Witness",
+                "songs": [
+                    {
+                        "title": "Good In Bed (Zach Witness & Gen Hoshino Remixes) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Boys Will Be Boys (Zach Witness Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "1YFLNH4rO40x9i16RpLwdY": {
+                "name": "Midland",
+                "songs": [
+                    {
+                        "title": "Pretty Please (Midland Refix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Pretty Please (Midland Refix)",
+                        "release_date": "2020-09-11",
+                        "album": "Pretty Please (Midland Refix)"
+                    }
+                ]
+            },
+            "5Fkj0k7EPUhIsESSIEA9f1": {
+                "name": "Masters At Work",
+                "songs": [
+                    {
+                        "title": "Pretty Please (Masters at Work Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "5MnToV7aAt2Zy9ag3DAsna": {
+                "name": "Horse Meat Disco",
+                "songs": [
+                    {
+                        "title": "Love Again (Horse Meat Disco Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "6J7biCazzYhU3gM9j1wfid": {
+                "name": "Jamiroquai",
+                "songs": [
+                    {
+                        "title": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "5Il27M5JXuQLgwDgVrQMgo": {
+                "name": "Dimitri From Paris",
+                "songs": [
+                    {
+                        "title": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Break My Heart (Moodymann Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "6tbjWDEIzxoDsBA1FuhfPW": {
+                "name": "Madonna",
+                "songs": [
+                    {
+                        "title": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix] [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+                        "release_date": "2020-12-11",
+                        "album": "Levitating EP"
+                    }
+                ]
+            },
+            "2wIVse2owClT7go1WT98tk": {
+                "name": "Missy Elliott",
+                "songs": [
+                    {
+                        "title": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix] [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
+                        "release_date": "2020-12-11",
+                        "album": "Levitating EP"
+                    }
+                ]
+            },
+            "0dRiUTGvNV17AMIULRYsvn": {
+                "name": "Mr. Fingers",
+                "songs": [
+                    {
+                        "title": "Hallucinate (Mr Fingers deep stripped mix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "4CA8PTrbq1l5IgyvBA2JSV": {
+                "name": "Paul Woolford",
+                "songs": [
+                    {
+                        "title": "Hallucinate (Paul Woolford Remix) [Extended] [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "2RqrWplViWHSGLzlhmDcbt": {
+                "name": "Yaeji",
+                "songs": [
+                    {
+                        "title": "Don't Start Now (Yaeji Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "4yiQZ8tQPux8cPriYMWUFP": {
+                "name": "Gwen Stefani",
+                "songs": [
+                    {
+                        "title": "Physical (feat. Gwen Stefani) [Mark Ronson Remix] [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "3hv9jJF3adDNsBSIQDqcjp": {
+                "name": "Mark Ronson",
+                "songs": [
+                    {
+                        "title": "Physical (feat. Gwen Stefani) [Mark Ronson Remix] [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "41MozSoPIsD1dJM0CLPjZF": {
+                "name": "BLACKPINK",
+                "songs": [
+                    {
+                        "title": "Kiss and Make Up (Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "Kiss and Make Up",
+                        "release_date": "2018-10-19",
+                        "album": "Dua Lipa (Complete Edition)"
+                    }
+                ]
+            },
+            "4SINYGzldpKMExpCjseS9o": {
+                "name": "Jacques Lu Cont",
+                "songs": [
+                    {
+                        "title": "That Kind Of Woman (Jacques Lu Cont Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    },
+                    {
+                        "title": "That Kind Of Woman (Jacques Lu Cont Remix)",
+                        "release_date": "2020-09-11",
+                        "album": "That Kind Of Woman (Jacques Lu Cont Remix)"
+                    }
+                ]
+            },
+            "6pohviZSNRueSX7uNu63ZX": {
+                "name": "Moodymann",
+                "songs": [
+                    {
+                        "title": "Break My Heart (Moodymann Remix) [Mixed]",
+                        "release_date": "2020-08-28",
+                        "album": "Club Future Nostalgia (DJ Mix)"
+                    }
+                ]
+            },
+            "360IAlyVv4PCEVjgyMZrxK": {
+                "name": "Miguel",
+                "songs": [
+                    {
+                        "title": "Lost In Your Light (feat. Miguel)",
+                        "release_date": "2018-10-19",
+                        "album": "Dua Lipa (Complete Edition)"
+                    },
+                    {
+                        "title": "Lost In Your Light (feat. Miguel)",
+                        "release_date": "2017-06-02",
+                        "album": "Dua Lipa (Deluxe)"
+                    }
+                ]
+            },
+            "7CajNmpbOovFoOoasH2HaY": {
+                "name": "Calvin Harris",
+                "songs": [
+                    {
+                        "title": "One Kiss",
+                        "release_date": "2018-10-19",
+                        "album": "Dua Lipa (Complete Edition)"
+                    },
+                    {
+                        "title": "Potion (with Dua Lipa & Young Thug)",
+                        "release_date": "2022-05-27",
+                        "album": "Potion (with Dua Lipa & Young Thug)"
+                    }
+                ]
+            },
+            "2X97ZAqRKRMYFIDqtvGgGc": {
+                "name": "Silk City",
+                "songs": [
+                    {
+                        "title": "Electricity",
+                        "release_date": "2018-10-19",
+                        "album": "Dua Lipa (Complete Edition)"
+                    }
+                ]
+            },
+            "60d24wfXkVzDSfLS6hyCjZ": {
+                "name": "Martin Garrix",
+                "songs": [
+                    {
+                        "title": "Scared to Be Lonely",
+                        "release_date": "2018-10-19",
+                        "album": "Dua Lipa (Complete Edition)"
+                    }
+                ]
+            },
+            "3Isy6kedDrgPYoTS1dazA9": {
+                "name": "Sean Paul",
+                "songs": [
+                    {
+                        "title": "No Lie (feat. Dua Lipa)",
+                        "release_date": "2018-10-19",
+                        "album": "Dua Lipa (Complete Edition)"
+                    }
+                ]
+            },
+            "13mm5rU1jvWfWG6uQ46ypd": {
+                "name": "Pierre de Maere",
+                "songs": [
+                    {
+                        "title": "These Walls (feat. Pierre de Maere)",
+                        "release_date": "2024-11-08",
+                        "album": "These Walls (feat. Pierre de Maere)"
+                    }
+                ]
+            },
+            "0pWR7TsFhvSCnbmHDjWgrE": {
+                "name": "Creepy Nuts",
+                "songs": [
+                    {
+                        "title": "Illusion - Creepy Nuts Remix",
+                        "release_date": "2024-07-26",
+                        "album": "Illusion (Creepy Nuts Remix)"
+                    }
+                ]
+            },
+            "4YLtscXsxbVgi031ovDDdh": {
+                "name": "Chris Stapleton",
+                "songs": [
+                    {
+                        "title": "Think I'm In Love With You (With Dua Lipa) (Live From The 59th ACM Awards)",
+                        "release_date": "2024-05-01",
+                        "album": "Think I'm In Love With You (With Dua Lipa) (Live From The 59th ACM Awards)"
+                    }
+                ]
+            },
+            "1Dt1UKLtrJIW1xxRBejjos": {
+                "name": "The Blaze",
+                "songs": [
+                    {
+                        "title": "Illusion - The Blaze Remix",
+                        "release_date": "2024-04-11",
+                        "album": "Illusion (Remixes)"
+                    }
+                ]
+            },
+            "0XfQBWgzisaS9ltDV9bXAS": {
+                "name": "Honey Dijon",
+                "songs": [
+                    {
+                        "title": "Illusion - Honey Dijon Remix",
+                        "release_date": "2024-04-11",
+                        "album": "Illusion (Remixes)"
+                    }
+                ]
+            },
+            "2EFsfh1zewsSWhDINv7j1I": {
+                "name": "Logic1000",
+                "songs": [
+                    {
+                        "title": "Illusion - Logic1000 Remix",
+                        "release_date": "2024-04-11",
+                        "album": "Illusion (Remixes)"
+                    }
+                ]
+            },
+            "4ofCBoyEiGSePFAG500xev": {
+                "name": "Regard",
+                "songs": [
+                    {
+                        "title": "Illusion - Regard Remix",
+                        "release_date": "2024-04-11",
+                        "album": "Illusion (Remixes)"
+                    }
+                ]
+            },
+            "68ywCN6ZpInbcilOfLBa3a": {
+                "name": "Chlo\u00e9 Caillet",
+                "songs": [
+                    {
+                        "title": "Training Season - Chlo\u00e9 Caillet Mix",
+                        "release_date": "2024-02-15",
+                        "album": "Training Season (Remixes)"
+                    }
+                ]
+            },
+            "1PNvaesh1mkKZucGhBuqgD": {
+                "name": "Danny L Harle",
+                "songs": [
+                    {
+                        "title": "Houdini - Danny L Harle Slowride Mix",
+                        "release_date": "2024-01-19",
+                        "album": "Houdini (Danny L Harle Slowride Mix)"
+                    },
+                    {
+                        "title": "Houdini - Danny L Harle Slowride Mix",
+                        "release_date": "2023-11-09",
+                        "album": "Houdini (Remixes)"
+                    }
+                ]
+            },
+            "2loEsOijJ6XiGzWYFXMIRk": {
+                "name": "Adam Port",
+                "songs": [
+                    {
+                        "title": "Houdini - Adam Port Mix",
+                        "release_date": "2023-12-22",
+                        "album": "Houdini (Adam Port Mix)"
+                    },
+                    {
+                        "title": "Houdini - Adam Port Mix",
+                        "release_date": "2023-11-09",
+                        "album": "Houdini (Remixes)"
+                    }
+                ]
+            },
+            "50co4Is1HCEo8bhOyUWKpn": {
+                "name": "Young Thug",
+                "songs": [
+                    {
+                        "title": "Potion (with Dua Lipa & Young Thug)",
+                        "release_date": "2022-05-27",
+                        "album": "Potion (with Dua Lipa & Young Thug)"
+                    }
+                ]
+            },
+            "181bsRPaVXVlUKXrxwZfHK": {
+                "name": "Megan Thee Stallion",
+                "songs": [
+                    {
+                        "title": "Sweetest Pie - David Guetta Dance Remix",
+                        "release_date": "2022-05-06",
+                        "album": "Sweetest Pie (David Guetta Remixes)"
+                    },
+                    {
+                        "title": "Sweetest Pie - David Guetta Festival Remix",
+                        "release_date": "2022-05-06",
+                        "album": "Sweetest Pie (David Guetta Remixes)"
+                    },
+                    {
+                        "title": "Sweetest Pie - David Guetta Dance Remix Extended",
+                        "release_date": "2022-05-06",
+                        "album": "Sweetest Pie (David Guetta Remixes)"
+                    },
+                    {
+                        "title": "Sweetest Pie - David Guetta Festival Remix Extended",
+                        "release_date": "2022-05-06",
+                        "album": "Sweetest Pie (David Guetta Remixes)"
+                    },
+                    {
+                        "title": "Sweetest Pie",
+                        "release_date": "2022-03-11",
+                        "album": "Sweetest Pie"
+                    }
+                ]
+            },
+            "1Cs0zKBU1kc0i8ypK3B9ai": {
+                "name": "David Guetta",
+                "songs": [
+                    {
+                        "title": "Sweetest Pie - David Guetta Dance Remix",
+                        "release_date": "2022-05-06",
+                        "album": "Sweetest Pie (David Guetta Remixes)"
+                    },
+                    {
+                        "title": "Sweetest Pie - David Guetta Festival Remix",
+                        "release_date": "2022-05-06",
+                        "album": "Sweetest Pie (David Guetta Remixes)"
+                    },
+                    {
+                        "title": "Sweetest Pie - David Guetta Dance Remix Extended",
+                        "release_date": "2022-05-06",
+                        "album": "Sweetest Pie (David Guetta Remixes)"
+                    },
+                    {
+                        "title": "Sweetest Pie - David Guetta Festival Remix Extended",
+                        "release_date": "2022-05-06",
+                        "album": "Sweetest Pie (David Guetta Remixes)"
+                    }
+                ]
+            },
+            "6JaOGIlSvYswVLPmGUheOO": {
+                "name": "GARABATTO",
+                "songs": [
+                    {
+                        "title": "Love Again - GARABATTO Remix",
+                        "release_date": "2021-10-15",
+                        "album": "Love Again (GARABATTO Remix)"
+                    }
+                ]
+            },
+            "5rGrDvrLOV2VV8SCFVGWlj": {
+                "name": "Imanbek",
+                "songs": [
+                    {
+                        "title": "Love Again - Imanbek Remix",
+                        "release_date": "2021-10-15",
+                        "album": "Love Again (GARABATTO Remix)"
+                    },
+                    {
+                        "title": "Love Again - Imanbek Remix",
+                        "release_date": "2021-10-01",
+                        "album": "Love Again (Imanbek Remix)"
+                    }
+                ]
+            },
+            "6n28c9qs9hNGriNa72b26u": {
+                "name": "PNAU",
+                "songs": [
+                    {
+                        "title": "Cold Heart - PNAU Remix",
+                        "release_date": "2021-10-12",
+                        "album": "Cold Heart (Acoustic)"
+                    },
+                    {
+                        "title": "Cold Heart - PNAU Remix",
+                        "release_date": "2021-10-08",
+                        "album": "Cold Heart (Claptone Remix)"
+                    },
+                    {
+                        "title": "Cold Heart - PNAU Remix",
+                        "release_date": "2021-09-17",
+                        "album": "Cold Heart (PS1 Remix)"
+                    },
+                    {
+                        "title": "Cold Heart - PNAU Remix",
+                        "release_date": "2021-09-10",
+                        "album": "Cold Heart (The Blessed Madonna Remix)"
+                    },
+                    {
+                        "title": "Cold Heart - PNAU Remix",
+                        "release_date": "2021-08-13",
+                        "album": "Cold Heart (PNAU Remix)"
+                    }
+                ]
+            },
+            "7bZGP9ijvv55LOENT634Mj": {
+                "name": "PS1",
+                "songs": [
+                    {
+                        "title": "Cold Heart - PS1 Remix",
+                        "release_date": "2021-10-12",
+                        "album": "Cold Heart (Acoustic)"
+                    },
+                    {
+                        "title": "Cold Heart - PS1 Remix",
+                        "release_date": "2021-09-17",
+                        "album": "Cold Heart (PS1 Remix)"
+                    }
+                ]
+            },
+            "4mncDFjVLUa3s025Tct3Ry": {
+                "name": "Claptone",
+                "songs": [
+                    {
+                        "title": "Cold Heart - Claptone Remix",
+                        "release_date": "2021-10-12",
+                        "album": "Cold Heart (Acoustic)"
+                    },
+                    {
+                        "title": "Cold Heart - Claptone Remix",
+                        "release_date": "2021-10-08",
+                        "album": "Cold Heart (Claptone Remix)"
+                    }
+                ]
+            },
+            "5R3Hr2cnCCjt220Jmt2xLf": {
+                "name": "Dillon Francis",
+                "songs": [
+                    {
+                        "title": "We're Good - Dillon Francis Remix",
+                        "release_date": "2021-03-12",
+                        "album": "We're Good (Dillon Francis Remix)"
+                    }
+                ]
+            },
+            "76fuWYgIf3TVIopTs3vaJ6": {
+                "name": "Amaal Mallik",
+                "songs": [
+                    {
+                        "title": "Levitating (feat. Prakriti Kakar & Sukriti Kakar) [Amaal Mallik Remix]",
+                        "release_date": "2021-02-12",
+                        "album": "Levitating (feat. Prakriti Kakar & Sukriti Kakar) [Amaal Mallik Remix]"
+                    }
+                ]
+            },
+            "59pq5Vw16UDkR9txoPKv86": {
+                "name": "Prakriti Kakar",
+                "songs": [
+                    {
+                        "title": "Levitating (feat. Prakriti Kakar & Sukriti Kakar) [Amaal Mallik Remix]",
+                        "release_date": "2021-02-12",
+                        "album": "Levitating (feat. Prakriti Kakar & Sukriti Kakar) [Amaal Mallik Remix]"
+                    }
+                ]
+            },
+            "3FgHkfb3IqG4WKuVe1xCXM": {
+                "name": "Sukriti Kakar",
+                "songs": [
+                    {
+                        "title": "Levitating (feat. Prakriti Kakar & Sukriti Kakar) [Amaal Mallik Remix]",
+                        "release_date": "2021-02-12",
+                        "album": "Levitating (feat. Prakriti Kakar & Sukriti Kakar) [Amaal Mallik Remix]"
+                    }
+                ]
+            },
+            "4Q6nIcaBED8qUel8bBx6Cr": {
+                "name": "Jax Jones",
+                "songs": [
+                    {
+                        "title": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
+                        "release_date": "2021-02-05",
+                        "album": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]"
+                    }
+                ]
+            },
+            "6owH8F2INpb18PhnISiVh2": {
+                "name": "Vantage",
+                "songs": [
+                    {
+                        "title": "Fever - Vantage Remix",
+                        "release_date": "2021-01-08",
+                        "album": "Fever (Vantage Remix)"
+                    }
+                ]
+            },
+            "3QFiymmbJlVBPpnrOatEAk": {
+                "name": "Myd",
+                "songs": [
+                    {
+                        "title": "Fever - Myd Remix",
+                        "release_date": "2021-01-08",
+                        "album": "Fever (Myd Remix)"
+                    }
+                ]
+            },
+            "5KnoVkIUGmK0PiDKMjz2LM": {
+                "name": "Feder",
+                "songs": [
+                    {
+                        "title": "Fever - Feder Remix",
+                        "release_date": "2021-01-08",
+                        "album": "Fever (Feder Remix)"
+                    }
+                ]
+            },
+            "4RVnAU35WRWra6OZ3CbbMA": {
+                "name": "Kylie Minogue",
+                "songs": [
+                    {
+                        "title": "Real Groove - Studio 2054 Remix",
+                        "release_date": "2020-12-31",
+                        "album": "Real Groove (Studio 2054 Remix)"
+                    }
+                ]
+            },
+            "6fFcUOFcbjeIuEomuUthkw": {
+                "name": "Oklou",
+                "songs": [
+                    {
+                        "title": "Fever - Oklou Remix",
+                        "release_date": "2020-12-18",
+                        "album": "Fever (Oklou Remix)"
+                    }
+                ]
+            },
+            "6TGsaPbyXTM7FAeHi68yp7": {
+                "name": "KUU",
+                "songs": [
+                    {
+                        "title": "Levitating (feat. DaBaby) - KUU Remix",
+                        "release_date": "2020-12-11",
+                        "album": "Levitating EP"
+                    },
+                    {
+                        "title": "Levitating (feat. DaBaby) - KUU Remix",
+                        "release_date": "2020-11-20",
+                        "album": "Levitating (feat. DaBaby) [KUU Remix]"
+                    }
+                ]
+            },
+            "1l2ekx5skC4gJH8djERwh1": {
+                "name": "Don Diablo",
+                "songs": [
+                    {
+                        "title": "Levitating (feat. DaBaby) - Don Diablo Remix",
+                        "release_date": "2020-12-11",
+                        "album": "Levitating EP"
+                    },
+                    {
+                        "title": "Levitating (feat. DaBaby) - Don Diablo Remix",
+                        "release_date": "2020-12-11",
+                        "album": "Levitating (feat. DaBaby) [Don Diablo Remix]"
+                    }
+                ]
+            }
+        }
+    }
+}
