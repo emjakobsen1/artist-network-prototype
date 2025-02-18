@@ -4,9 +4,12 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
 
-# 
-CLIENT_ID = "d6439164eb6746c8ac5bb20a2f708fe4"
-CLIENT_SECRET = "6c209eabbd824444aed24feec03b7766"
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+CLIENT_ID = os.getenv("CLIENT_ID")
+CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 ARTIST_NAME = "Taylor Swift"
 
 # Function to get a Spotify API token
