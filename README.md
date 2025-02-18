@@ -1,8 +1,8 @@
 
-Fetches an artist and their top tracks from the sspotify API, and constructs a graph by performing BFS on the featured artists of these.
+Fetches an artist and their top tracks from the spotify API, and constructs a graph by performing BFS on the featured artists of these.
 Nodes: artists. Edge: Collaboration between artists, If they are featured on the same track. Edge color, light grey to black, is spotify's popularity score for the track. 
 
-python fetchSpotifyData.py
+'''python fetchSpotifyData.py'''
 
 Fetches info from artists and whom they have collaborated with. More details, but no graphs or visualizations. 
 python fetchSpotifyData2.py
